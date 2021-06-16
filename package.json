@@ -1,0 +1,26 @@
+{
+  "name": "mini-vite",
+  "version": "1.0.0",
+  "description": "mini vite",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoeyzhao19/mini-vite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoeyzhao19/mini-vite/issues"
+  },
+  "homepage": "https://github.com/zoeyzhao19/mini-vite#readme",
+  "dependencies": {
+    "@vue/compiler-sfc": "^3.1.1",
+    "fs": "0.0.1-security",
+    "koa": "^2.13.1",
+    "vue": "^3.1.1"
+  }
+}
